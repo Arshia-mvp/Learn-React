@@ -1,0 +1,148 @@
+.svg{
+    position: absolute;
+    left: 100px;
+    top: 20px;
+}
+a{
+    text-decoration: none;
+    color: gray;
+    font-size: 17px;
+    position: absolute;
+    left: 265px;
+    top: 22px;
+}
+a:hover{
+    color: #707070;
+}
+.a{
+    text-decoration: none;
+    color: gray;
+    font-size: 17px;
+    position: absolute;
+    left: 360px;
+    top: 22px;
+}
+.a:hover{
+    color: #707070;
+}
+.a-1{
+    text-decoration: none;
+    color: gray;
+    font-size: 17px;
+    position: absolute;
+    left: 470px;
+    top: 22px;
+}
+.a-1:hover{
+    color: #707070;
+}
+.a-2{
+    text-decoration: none;
+    color: gray;
+    font-size: 17px;
+    position: absolute;
+    left: 585px;
+    top: 22px;
+}
+.a-2:hover{
+    color: #707070;
+}
+.a-3{
+    text-decoration: none;
+    color: gray;
+    font-size: 17px;
+    position: absolute;
+    left: 695px;
+    top: 22px;
+}
+.a-3:hover{
+    color: #707070;
+}
+.a-4{
+    text-decoration: none;
+    color: gray;
+    font-size: 17px;
+    position: absolute;
+    left: 792px;
+    top: 22px;
+}
+.a-4:hover{
+    color: #707070;
+}
+.a-5{
+    text-decoration: none;
+    color: gray;
+    font-size: 17px;
+    position: absolute;
+    left: 1025px;
+    top: 22px;
+}
+.a-5:hover{
+    color: #707070;
+}
+.button{
+    width: 118px;
+    height: 36px;
+    background-color: #0086D5;
+    border: 2px solid #0086D5;
+    position: absolute;
+    left: 1100px;
+    top: 13px;
+    border-radius: 5px;
+}
+p{
+    color: #FFFFFF;
+    position: absolute;
+    font-size: 14px;
+    left: 20px;
+    top: 8px;
+}
+.Taskerbringsall{
+    position: absolute;
+    top: 170px;
+    left: 105px;
+    color: #303030;
+    font-size: 55px;
+}
+.p{
+    position: absolute;
+    top: 395px;
+    left: 105px;
+    font-size: 20px;
+    color: #707070;
+}
+input{
+    width: 230px;
+    height: 35px;
+    position: absolute;
+    top: 470px;
+    left: 105px;
+    border-radius: 4px;
+    color: #707070;
+    font-size: 14px;
+    border: 2px solid #0086D5;
+}
+input::placeholder{
+    font-size: 14px;
+    color: #303030;
+}
+button{
+    width: 164px;
+    height: 37px;
+    background-color: #0086D5;
+    border-radius: 6px;
+    position: absolute;
+    top: 468px;
+    left: 350px;
+    border-radius: 6px;
+    color: white;
+    font-size: 14px;
+    border: 2px solid #0086D5;
+}
+.img{
+    width: 658px;
+    height: 506px;
+    position: absolute;
+    left: 550px;
+    top: 105px;
+}
